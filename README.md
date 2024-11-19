@@ -2,5 +2,5 @@
 
 
 
-<img src="image/netflix_clone.png" alt="My Image" width="300">
+<img src="image/netflix_clone.png" alt="My Image" width="500">
 
